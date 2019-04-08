@@ -39,4 +39,4 @@ z = y * 6
 ```
 ---
 
-Make sure the content of the article is consice and suited toward a younger audience.
+Make sure the content of the article is concise and suited toward a younger audience.
