@@ -8,7 +8,7 @@
 # Lists in Python
 Lists are a great tool to map data to other data. Python's list are a way to organize your data. Your data would be structured like
 
-![alt text](https://raw.githubusercontent.com/codingandcommunity/test-articles/master/test-curriculum/assets/python-list%20diagram.jpg "list diagram")a
+![alt text](https://raw.githubusercontent.com/codingandcommunity/test-articles/master/test-curriculum/assets/python-list%20diagram.jpg "list diagram")
 
 You can create a List with a set of intial elements
 
