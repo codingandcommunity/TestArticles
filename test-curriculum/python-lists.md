@@ -20,13 +20,13 @@ data = ["red", 1, 1.5, true];
 and an empty list
 
 ```python
-numbers = [];
+numbers = []
 ```
 
 The data in the List can be any type and all elements do not have to be the same type. If a single element is needed in the list it can be accessed using []; where a element is its element. Remember that the first element is the zeroth element.
 
 ```python
-three = numbers[2];
+three = numbers[2]
 ```
 
 In this case the number 3 is in the 2nd index of the list.
@@ -40,7 +40,7 @@ One way to iterate through a list is a for in loop. For example, if we had a lis
 
 ```python
 for num in numbers:
-  print(num);
+  print(num)
 ```
 
 The variable num is now a temporary variable that can only be used within that code block and is a element in the List `numbers`.
@@ -67,7 +67,7 @@ This prints out the 0th to 99th index of the numbers list. The range function ca
 index = 0
 while index < len(numbers):
 	print numbers[index];
-	i++;
+	i += 1;
 ```
 This prints out every element of the list using a while loop and indexes to get specific elements. We can also increment at different values like this.
 
