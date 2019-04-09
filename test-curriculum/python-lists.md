@@ -13,9 +13,9 @@ Lists are a great tool to map data to other data. Python's list are a way to org
 You can create a List with a set of intial elements
 
 ```python
-var numbers = [1, 2, 3];
+numbers = [1, 2, 3]
 colors = ["red", "blue", "red"]
-data = ["red", 1, 1.5, true];
+data = ["red", 1, 1.5, true]
 ```
 and an empty list
 
@@ -58,7 +58,7 @@ The list can also be iterated using indexes. The range function can be used to g
 
 ```python
 for index in range(100):
-	print numbers[index];
+	print numbers[index]
 ```
 
 This prints out the 0th to 99th index of the numbers list. The range function can also start a different value and increment at diffenent values. `range(start,end,increment)`
@@ -66,16 +66,16 @@ This prints out the 0th to 99th index of the numbers list. The range function ca
 ```python
 index = 0
 while index < len(numbers):
-	print numbers[index];
-	i += 1;
+	print numbers[index]
+	i += 1
 ```
 This prints out every element of the list using a while loop and indexes to get specific elements. We can also increment at different values like this.
 
 ```python
 index = 0
 while index < len(numbers):
-	print numbers[index];
-	i += 2;
+	print numbers[index]
+	i += 2
 ```
 
 This will print every other or every even indexed element.
