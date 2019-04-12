@@ -1,10 +1,10 @@
-    title: Lists in Python
-    author: John Smith
-    date: 4/2/19
-    next: [Step 2](@step_2.md) ///links not creating within "---"
-    prev: [Intro](@intro.md)
-    jump to: @step1.md
-    
+title: Lists in Python
+author: John Smith
+date: 4/2/19
+next: [Step 2](@step_2.md) ///links not creating within "---"
+prev: [Intro](@intro.md)
+jump to: @step1.md
+***  
 # Lists in Python
 Lists are a great tool to map data to other data. Python's list are a way to organize your data. Your data would be structured like
 
